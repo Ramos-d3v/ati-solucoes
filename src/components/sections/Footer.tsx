@@ -23,9 +23,9 @@ export const Footer = () => {
             <h4 className="font-bold mb-6">Nossos Serviços</h4>
             <ul className="space-y-4 text-sm text-muted-foreground">
               <li><a href="#features" className="hover:text-primary transition-colors">Landing Pages</a></li>
+              <li><a href="#portfolio" className="hover:text-primary transition-colors">Portfólio</a></li>
               <li><a href="#features" className="hover:text-primary transition-colors">Sistemas Web</a></li>
               <li><a href="#features" className="hover:text-primary transition-colors">Consultoria Tech</a></li>
-              <li><a href="#features" className="hover:text-primary transition-colors">Manutenção</a></li>
             </ul>
           </div>
           
